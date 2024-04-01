@@ -1,0 +1,26 @@
+api/node_modules
+react-blogs/node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+react-blogs/node_modules
+react-blogs/.pnp
+react-blogs.pnp.js
+
+# testing
+react-blogs/coverage
+
+# production
+react-blogs/build
+
+# misc
+react-blogs/.DS_Store
+react-blogs/.env.local
+react-blogs/.env.development.local
+react-blogs/.env.test.local
+react-blogs/.env.production.local
+
+react-blogs/npm-debug.log*
+react-blogs/yarn-debug.log*
+react-blogs/yarn-error.log*
